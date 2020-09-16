@@ -1,6 +1,5 @@
 package com.dtover.blog.web;
 
-import com.dtover.blog.po.Type;
 import com.dtover.blog.service.BlogService;
 import com.dtover.blog.service.TagService;
 import com.dtover.blog.service.TypeService;
